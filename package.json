@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "generate:dafim": "node scripts/generate-dafim.mjs",
+    "validate:dafim": "node scripts/validate-dafim.mjs"
+  },
+  "dependencies": {
+    "@hebcal/core": "^6.11.1",
+    "@hebcal/learning": "^6.11.4"
+  }
+}
